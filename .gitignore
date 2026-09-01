@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+*.db
+prayana.db
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
